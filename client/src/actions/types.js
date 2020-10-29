@@ -1,0 +1,13 @@
+export const SET_ALERT = 'SET_ALERT';
+export const REMOVE_ALERT = 'REMOVE_ALERT';
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS';
+export const REGISTER_FAILED = 'REGISTER_FAILED';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAILED = 'LOGIN_FAILED';
+export const LOAD_USER = 'LOAD_USER';
+export const AUTH_ERR = 'AUTH_ERR';
+export const LOGOUT = 'LOGOUT';
+export const SET_INPUTS = 'SET_INPUTS';
+export const SUBMIT_PATIENT_SUCCESS = 'SUBMIT_PATIENT_SUCCESS';
+export const SUBMIT_PATIENT_FAILED = 'SUBMIT_PATIENT_FAILED';
+export const SET_PATIENT_DATA = 'GET_PATIENT_DATA';

@@ -1,0 +1,26 @@
+{
+   "gender":[
+       {
+           "id":1,
+           "option":"Male"
+       },
+       {
+            "id":2,
+            "option":"Female"
+       }
+    ],
+    "language":[
+        {
+            "id":1,
+            "option":"English"
+        },
+        {
+            "id":2,
+            "option":"Hebrew"
+        },
+        {
+            "id":3,
+            "option":"Spanish"
+        }
+    ]
+}
